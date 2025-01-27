@@ -77,8 +77,8 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flasonme&show_icons=true&theme=radical" alt="Flason's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=flasonme&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flasonme&show_icons=true&theme=highcontrast" alt="Flason's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=flasonme&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 <p align="center">
