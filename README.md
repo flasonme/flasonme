@@ -82,11 +82,10 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flasonme&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=flasonme&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
-
 ### 📜 **Certifications**
 - **Rest API (Intermediate) Certificate** by HackerRank (Jan 2023)
 - **JavaScript Algorithms and Data Structures** by freeCodeCamp (Jan 2023)
